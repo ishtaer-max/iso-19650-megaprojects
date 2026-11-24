@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "ISO 19650-governed megaprojects and their audited outcomes"
+version: "1.0"
+date-released: 2026-07-28
+license: CC-BY-4.0
+url: "https://solebo.org/dark-side-of-bim/"
+authors:
+  - family-names: Shtaer
+    given-names: Ivan
+    affiliation: Solebo
+keywords:
+  - ISO 19650
+  - BIM
+  - building information modelling
+  - megaprojects
+  - cost overrun
+  - infrastructure
+references:
+  - type: article
+    title: "The Dark Side of BIM: The Biggest ISO 19650 Failures"
+    authors:
+      - family-names: Shtaer
+        given-names: Ivan
+    year: 2026
+    publisher:
+      name: Solebo
+    url: "https://solebo.org/dark-side-of-bim/"
