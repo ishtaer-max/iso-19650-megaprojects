@@ -4,13 +4,31 @@
   "version": "1.0",
   "publication_date": "2026-07-28",
   "description": "<p>The largest capital projects with a documented ISO 19650 or predecessor (PAS 1192) information-management mandate: 11 records across five jurisdictions and four sectors, with original and final budgets, overrun, schedule slip and the primary source for each record.</p><p>Overruns are recorded, not attributed. None of these audits isolates the contribution of the information-management mandate to the outcome. The finding is the absence of an independently audited success, not proof of causation.</p><p>Full methodology and discussion: <a href=\"https://solebo.org/dark-side-of-bim/\">The Dark Side of BIM: The Biggest ISO 19650 Failures</a>.</p>",
-  "creators": [{ "name": "Shtaer, Ivan", "affiliation": "Solebo" }],
+  "creators": [
+    {
+      "name": "Shtaer, Ivan",
+      "affiliation": "Solebo"
+    }
+  ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "keywords": ["ISO 19650", "BIM", "building information modelling", "megaprojects", "cost overrun", "schedule overrun", "infrastructure", "IFC"],
-  "related_identifiers": [
-    { "identifier": "https://solebo.org/dark-side-of-bim/", "relation": "isSupplementTo", "resource_type": "publication-article" },
-    { "identifier": "https://solebo.org/light-side-of-bim/", "relation": "isRelatedTo", "resource_type": "publication-article" }
+  "keywords": [
+    "ISO 19650",
+    "BIM",
+    "building information modelling",
+    "megaprojects",
+    "cost overrun",
+    "schedule overrun",
+    "infrastructure",
+    "IFC"
   ],
-  "language": "eng"
+  "related_identifiers": [
+    {
+      "identifier": "https://solebo.org/dark-side-of-bim/",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ],
+  "language": "eng",
+  "notes": "Companion dataset of measured BIM benefits: https://solebo.org/light-side-of-bim/"
 }
