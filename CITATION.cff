@@ -5,7 +5,9 @@ title: "ISO 19650-governed megaprojects and their audited outcomes"
 version: "1.0"
 date-released: 2026-07-28
 license: CC-BY-4.0
+doi: 10.5281/zenodo.24496452
 url: "https://solebo.org/dark-side-of-bim/"
+repository-code: "https://github.com/ishtaer-max/iso-19650-megaprojects"
 authors:
   - family-names: Shtaer
     given-names: Ivan

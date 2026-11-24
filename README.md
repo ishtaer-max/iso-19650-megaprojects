@@ -1,5 +1,7 @@
 # ISO 19650-governed megaprojects and their audited outcomes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24496452.svg)](https://doi.org/10.5281/zenodo.24496452)
+
 The dataset behind **[The Dark Side of BIM: The Biggest ISO 19650 Failures](https://solebo.org/dark-side-of-bim/)** (Ivan Shtaer, Solebo, 2026).
 
 It covers the 11 largest capital projects with a documented ISO 19650 or predecessor (PAS 1192) information-management mandate, across five jurisdictions and four sectors. For each one it gives the original and final budget, the overrun, the schedule slip and the source that records them.
@@ -34,4 +36,4 @@ Counter-evidence is welcome. If you can point to a flagship project under a docu
 
 ## Cite
 
-> Shtaer, I. (2026) *ISO 19650-governed megaprojects and their audited outcomes* (v1.0) [Data set]. Solebo. https://solebo.org/dark-side-of-bim/
+> Shtaer, I. (2026) *ISO 19650-governed megaprojects and their audited outcomes* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24496452
